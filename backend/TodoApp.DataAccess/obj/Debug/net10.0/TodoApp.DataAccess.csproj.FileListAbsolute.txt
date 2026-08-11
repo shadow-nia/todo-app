@@ -1,0 +1,11 @@
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/bin/Debug/net10.0/TodoApp.DataAccess.deps.json
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/bin/Debug/net10.0/TodoApp.DataAccess.dll
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/bin/Debug/net10.0/TodoApp.DataAccess.pdb
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/TodoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/TodoApp.DataAccess.AssemblyInfoInputs.cache
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/TodoApp.DataAccess.AssemblyInfo.cs
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/TodoApp.DataAccess.csproj.CoreCompileInputs.cache
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/TodoApp.DataAccess.dll
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/refint/TodoApp.DataAccess.dll
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/TodoApp.DataAccess.pdb
+/Users/danyil/todo-app/backend/TodoApp.DataAccess/obj/Debug/net10.0/ref/TodoApp.DataAccess.dll

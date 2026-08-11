@@ -1,0 +1,11 @@
+/Users/danyil/todo-app/backend/TodoApp.Core/bin/Debug/net10.0/TodoApp.Core.deps.json
+/Users/danyil/todo-app/backend/TodoApp.Core/bin/Debug/net10.0/TodoApp.Core.dll
+/Users/danyil/todo-app/backend/TodoApp.Core/bin/Debug/net10.0/TodoApp.Core.pdb
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.AssemblyInfoInputs.cache
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.AssemblyInfo.cs
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.csproj.CoreCompileInputs.cache
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.dll
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/refint/TodoApp.Core.dll
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.pdb
+/Users/danyil/todo-app/backend/TodoApp.Core/obj/Debug/net10.0/ref/TodoApp.Core.dll
