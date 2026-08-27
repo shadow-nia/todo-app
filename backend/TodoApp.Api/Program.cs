@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using TodoApp.DataAccess.Context;
+using TodoApp.Core.Interfaces;
+using TodoApp.Core.Interfaces.Repositories;
+using TodoApp.DataAccess;
+using TodoApp.DataAccess.Repositories;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,6 +20,11 @@ var connectionString = builder.Configuration
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<ITodoItemRepository, TodoItemRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 
